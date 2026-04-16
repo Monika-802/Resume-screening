@@ -1,0 +1,5 @@
+Looking for Data Scientist
+
+Skills: Python, Machine Learning, NLP, SQL
+Tools: TensorFlow, Pandas, Scikit-learn
+Experience: 2+ years

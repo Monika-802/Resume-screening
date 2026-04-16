@@ -1,0 +1,3 @@
+Skills: Python, Machine Learning
+Tools: Pandas
+Experience: 1 year internship
